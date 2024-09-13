@@ -5,6 +5,7 @@ Easy way to enable Windows region snipping tool redirection to GoogleLens search
 
 This repository contains AutoHotkey (AHK) scripts for various automation tasks. The scripts are written in AutoHotkey v2.
 
+![SnipToLens](https://github.com/user-attachments/assets/5c999a9c-7b90-4c19-8344-e5e834a7ccf0)
 
 ## Scripts
 
